@@ -1,9 +1,8 @@
-<h1> Salut, moi c'est Tim <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<img src="https://cdn.discordapp.com/avatars/270903423371575296/a_9145baebb77b0e103daacd33f02561fc.gif?size=64"></img> <h1> Salut, moi c'est Tim <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
 <h3>
-<img src="https://cdn.discordapp.com/avatars/270903423371575296/a_9145baebb77b0e103daacd33f02561fc.gif?size=64"></img>
 <div size='20px'> Je suis développeur informatique indépendant
 </h3>
 </div>
