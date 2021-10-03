@@ -1,17 +1,1 @@
-<table>
-  <td align="center">
-    <img src="https://github.com/str4ky/str4ky/blob/master/metrics.classic.svg">
-    <img width="900" height="1" alt="">
-  </td>
-</table>
-
-#### ℹ️ Examples workflows
-
-[➡️ Supported formats and inputs](metadata.yml)
-
-```yaml
-- uses: lowlighter/metrics@latest
-  with:
-    # ... other options
-    template: classic
-```
+<img src="https://cdn.discordapp.com/avatars/270903423371575296/a_9145baebb77b0e103daacd33f02561fc.gif"> Salutn moi c'est Tim
