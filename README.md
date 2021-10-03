@@ -7,7 +7,7 @@
 
 <h2> À propos de moi <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </h2>
-➭ 💼 Étudiant en BTS SIO 2ème année<a></a>
+➭ 💼 Étudiant en BTS SIO 2ème année, <a href="http://tim-req.ml" target="_blank">pour plus d'infos</a>
 
 ➭ 🎮 Développeur de jeux indépendants, <a href="http://strakygames.tk" target="_blank">pour plus d'infos</a>
 
