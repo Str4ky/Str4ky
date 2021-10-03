@@ -1,15 +1,14 @@
 <h1> Salut, moi c'est Tim <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
-
 </p>
-<div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Je suis développeur informatique indépendant
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> À propos de moi <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/str4ky/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
