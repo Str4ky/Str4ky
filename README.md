@@ -37,12 +37,6 @@
 <img src="https://img.shields.io/badge/-C%23-blueviolet.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABlBMVEX%2F%2F%2F8AAABVwtN%2BAAAAAnRSTlP%2FAOW3MEoAAAQySURBVHja7NlBAUQxCEPBWf%2BmV8WnSWkU8OaK3%2FJ5AMvnAZwcsBUAABYCAABsAyBEQEg%2BrAGAGAJJ%2FSwAgCQCWflwMQCkEQjsx40ASBQQmQ93AZAqIDUfLgGAXALJ%2BdAOgGwC6fnQCoB8AQ396ANAhYCOfCgCgBYCRf1oAECTgKp8yAZAGYG6fIQCQB%2BByn6kAZhfEgCUEujNRwQAFBPo7sdZAJQLqO%2FHKQCoJ9CfD0wDiNssgMTNAUjdDIDkDQB8eCTzAmbz896p5vLnnL8C%2BLd3B8aOq0AQRfvmn%2FSPwL%2BWXY3uqOgJAOhT%2BD3LhYb5NQmz5Y0V8Zf1BkH8%2BB7BAcB8eosgfnx378U%2B5GVvwAiTr9oFceP7myD%2B7ncJ4sd3CeLufv9PQfz8rkD87e9%2BDOLndwXytfywGADYLDAOwGs1DrA8P2wEAF%2FABABfwAQA9gsMAiDUJgCU2gNAAXwBEwCtdgAg1gYA1PIB%2BKd6YAQZ4MFlXwMwMJwHwGkNDGkCDC31%2BwDv%2FmvxAIbiD4ztAyQDAjbA%2BQqnCBwArYvMcgDhuFcUgDVH%2FhIfQDz3mUgA%2FsliALIcIA%2BU%2F4OImz95YHQJIBkUSEwAvZFSsh8gmROID2A2kkpsAN4GyOnAPkAyJJBvAGQI4A%2BW9IPsSQAEgACcfERQATJQJHcD5AiACQAh%2FzlACuADZBVAbgBgHmB1%2FgL8zi8AZBdAngagAN9rLPcqwMp2GU8BFKAABaAAav5zgAIUoAAFiA7gPwsLAP6TUAEKkBsAKEABfuS%2FA4C3APpNsAAFKEAB%2BptgAQpQgC8KiAD%2Bk4B6PsB%2FFBQAUAG4FiDzAOcCBTABcgMAOwHwALgWIPMAskAB4AggowCCwP9%2Fuc2rANEASJK%2BNnf5i5PEB4gKgAvQl6cFgYPB20ChLTTaROWmNjoaQBsptZVWm6klTBOAD2AKtKWmDyAKfKKrbAJ%2BW924AHc3Vk7Abq39vfb686NpAEJ7%2Fa%2FfMHEwggDQO0Z6y0zvGSpA7xrrbXO9b7A3TvbO0d46e929w2QzQe8eXwyQxfknAASBvANAdhI8v6pgCvj5yQuz%2BfHDAcDaTTCzmoBH4MeHgEfgx4eIc2%2FITyZnz%2Fr4EPAJzB0YsAmEic8BSASDN%2BYM%2FmkvlTzwEkFYOVUYXpfwogGMAZAnanZ4mASA7C6YBNhPwCTAfgEYBNhPAIMA%2BwlgEmA%2FAZMA%2BwVAANhDAALAIgJMAJ8AZABXAHwAkwAfwBQAH0AkAB9AJAAfwCTABzAJwAcQBcAHMAnwAUwC8AFEAfABRALwAUwCfACTAHwAUQB8AJMAH8AkAB9AFAAfQCQAH8AkwAcwCcAHEAXABzAJ8AFMAvABRAHwAUwCfACTAHwAUQB8AJEAfACTAB%2FAJAAfQCQAH0AUAB%2FAJMAHEAkwK9xcBShAAf4DmpiQnzMGbcEAAAAASUVORK5CYII%3D">
   
 </div>
-  
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/rahulbanerjee26'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -59,6 +53,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<h2> Prenez contact avec moi <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/rahulbanerjee26'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
