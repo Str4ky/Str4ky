@@ -2,8 +2,10 @@
 <p align='center'>
 
 </p>
+<h3>
 <img src="https://cdn.discordapp.com/avatars/270903423371575296/a_9145baebb77b0e103daacd33f02561fc.gif?size=64"></img>
 <div size='20px'> Je suis développeur informatique indépendant
+</h3>
 </div>
 
 <h2> À propos de moi <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
