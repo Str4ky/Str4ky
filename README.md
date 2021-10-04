@@ -42,7 +42,7 @@
 
 <a href="https://github.com/Str4ky/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulbanerjee26&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+</a><br><br><br><br><br><br>
 <a href="https://github.com/Str4ky/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26&theme=tokyonight" />
-</a><br>
+</a>
