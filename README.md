@@ -46,7 +46,7 @@
   
 <img src="Logos\Laravel.png" width=32px>
   &nbsp;
-<img src="Logos\Ccharp.png" width=32px>
+<img src="Logos\Csharp.png" width=32px>
   &nbsp;
 <img src="Logos\Python.png" width=32px>
   
