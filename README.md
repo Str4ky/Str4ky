@@ -34,6 +34,9 @@
   &nbsp;
 <img src="Ressources\DiscordBotMaker.png" width=32px>
   
+<h3>Les frameworks que j'utilise</h3>
+<img src="Ressources\Laravel.png" width=32px>
+  
 <h3>Les langages ou je suis confirmé</h3>
   
 <img src="Ressources\HTML.png" width=32px>
@@ -51,9 +54,6 @@
 <img src="Ressources\Bash.png" width=32px>
   &nbsp;
 <img src="Ressources\MySQL.png" width=42px>
-  
-<h3>Les frameworks que j'utilise</h3>
-<img src="Ressources\Laravel.png" width=32px>
   
 </div>
 
