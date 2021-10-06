@@ -19,7 +19,7 @@
 <h2> Mes compétences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div>
-
+<h3>Je débute</h3>
 <img src="https://static.wikia.nocookie.net/wnr/images/f/fd/Windows_10X_logo_.png/revision/latest/scale-to-width-down/185?cb=20210514203759" width=32px>
   
 <img src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859" width=32px>
