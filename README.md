@@ -24,18 +24,18 @@
   
 <img src="https://static.wikia.nocookie.net/wnr/images/f/fd/Windows_10X_logo_.png/revision/latest/scale-to-width-down/185?cb=20210514203759" width=32px>
   &nbsp;
+<img src="https://img.utdstc.com/icon/253/c26/253c26c80b6107f203ff03de923ca2729cc298a908604d5e7d8a3ad18ac69fad:200" width=32px>
+  &nbsp;
 <img src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859" width=32px>
   &nbsp;
 <img src="https://treebit.ru/wp-content/uploads/2020/04/Clickteam-Fusion-2.5.png" width=32px>
-    &nbsp;
+  &nbsp;
 <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/79a00b87195cb584d0b3b5358e19f795.png" width=32px>
-    &nbsp;
-<img src="https://img.utdstc.com/icon/253/c26/253c26c80b6107f203ff03de923ca2729cc298a908604d5e7d8a3ad18ac69fad:200" width=32px>
   
 <h3>Les langages ou je suis confirmé</h3>
   
 <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" width=32px>
-  &nbsp;
+ &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width=32px>
   
 <h3>Les langages ou je débute</h3>
