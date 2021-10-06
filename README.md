@@ -32,7 +32,7 @@
   &nbsp;
 <img src="Logos\Clickteam.png" width=32px>
   &nbsp;
-<img src="Logos\DiscordBotMaker.pngg" width=32px>
+<img src="Logos\DiscordBotMaker.png" width=32px>
   
 <h3>Les langages ou je suis confirmé</h3>
   
@@ -46,7 +46,7 @@
   
 <img src="Logos\Laravel.png" width=32px>
   &nbsp;
-<img src="Logos\CSharp.png" width=32px>
+<img src="Logos\Ccharp.png" width=32px>
   &nbsp;
 <img src="Logos\Python.png" width=32px>
   
