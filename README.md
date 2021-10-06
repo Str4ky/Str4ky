@@ -52,7 +52,7 @@
   &nbsp;
 <img src="Logos\Bash.png" width=32px>
   &nbsp;
-<img src="Logos\MySQL.png" width=32px>
+<img src="Logos\MySQL.png" width=38px>
   
 </div>
 
