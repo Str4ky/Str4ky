@@ -22,38 +22,38 @@
 
 <h3>Les outils que j'utilise</h3>
   
-<img src="Ressources\Windows.png" alt="Windows" width=32px>
+<img src="Ressources\Windows.png" alt="Windows" title="Windows" width=32px>
   &nbsp;
-<img src="Ressources\Paint.Net.png" alt="Paint.NET" width=32px>
+<img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px>
   &nbsp;
-<img src="Ressources\VisualStudio.png" alt="Visual Studio" width=32px>
+<img src="Ressources\VisualStudio.png" alt="Visual Studio" title="Visual Studio" width=32px>
   &nbsp;
-<img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" width=32px>
+<img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px>
   &nbsp;
-<img src="Ressources\Clickteam.png" alt="Clickteam Fusion" width=32px>
+<img src="Ressources\Clickteam.png" alt="Clickteam Fusion" title="Clickteam Fusion" width=32px>
   &nbsp;
-<img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" width=32px>
+<img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px>
   
 <h3>Les frameworks que j'utilise</h3>
-<img src="Ressources\Laravel.png" width=32px>
+<img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px>
   
 <h3>Les langages ou je suis confirmé</h3>
   
-<img src="Ressources\HTML.png" alt="HTML" width=32px>
+<img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px>
  &nbsp;
-<img src="Ressources\CSS.png" alt="CSS" width=32px>
+<img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px>
  &nbsp;
-<img src="Ressources\PHP.png" alt="PHP" width=38px>
+<img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px>
   
 <h3>Les langages ou je débute</h3>
   
-<img src="Ressources\Csharp.png" alt="C#" width=32px>
+<img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px>
   &nbsp;
-<img src="Ressources\Python.png" alt="Python" width=32px>
+<img src="Ressources\Python.png" alt="Python" title="Python" width=32px>
   &nbsp;
-<img src="Ressources\Bash.png" alt="Bash" width=32px>
+<img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px>
   &nbsp;
-<img src="Ressources\MySQL.png" alt="SQL" width=42px>
+<img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px>
   
 </div>
 
