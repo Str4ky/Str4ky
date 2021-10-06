@@ -37,7 +37,7 @@
 <h3>Les frameworks que j'utilise</h3>
 <img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px>
   
-<h3>Les langages ou je suis confirmé</h3>
+<h3>Les langages où je suis confirmé</h3>
   
 <img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px>
  &nbsp;
@@ -45,7 +45,7 @@
  &nbsp;
 <img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px>
   
-<h3>Les langages ou je débute</h3>
+<h3>Les langages où je débute</h3>
   
 <img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px>
   &nbsp;
