@@ -27,14 +27,18 @@
 <img src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859" width=32px>
   &nbsp;
 <img src="https://treebit.ru/wp-content/uploads/2020/04/Clickteam-Fusion-2.5.png" width=32px>
+    &nbsp;
+<img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/79a00b87195cb584d0b3b5358e19f795.png" width=32px>
+    &nbsp;
+<img src="https://img.utdstc.com/icon/253/c26/253c26c80b6107f203ff03de923ca2729cc298a908604d5e7d8a3ad18ac69fad:200" width=32px>
   
-<h3>Je suis confirmé</h3>
+<h3>Les langages ou je suis confirmé</h3>
   
 <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" width=32px>
   &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width=32px>
   
-<h3>Je débute</h3>
+<h3>Les langages ou je débute</h3>
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width=32px>
   &nbsp;
