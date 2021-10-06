@@ -20,7 +20,7 @@
 
 <div>
   
-<h3>Je suis confirmé</h3>
+<h4>Je suis confirmé</h4>
   
 <img src="https://static.wikia.nocookie.net/wnr/images/f/fd/Windows_10X_logo_.png/revision/latest/scale-to-width-down/185?cb=20210514203759" width=32px>
   
@@ -32,7 +32,7 @@
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width=32px>
   
-<h3>Je débute</h3>
+<h4>Je débute</h4>
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width=32px>
   
