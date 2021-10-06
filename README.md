@@ -20,26 +20,26 @@
 
 <div>
   
-<h4>Je suis confirmé</h4>
+<h3>Je suis confirmé</h3>
   
 <img src="https://static.wikia.nocookie.net/wnr/images/f/fd/Windows_10X_logo_.png/revision/latest/scale-to-width-down/185?cb=20210514203759" width=32px>
-  
+  &nbsp;
 <img src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859" width=32px>
-  
+  &nbsp;
 <img src="https://treebit.ru/wp-content/uploads/2020/04/Clickteam-Fusion-2.5.png" width=32px>
-  
+  &nbsp;
 <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" width=32px>
-  
+  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width=32px>
   
-<h4>Je débute</h4>
+<h3>Je débute</h3>
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width=32px>
-  
+  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width=32px>
-  
+  &nbsp;
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width=32px>
-  
+  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width=32px>
   
 </div>
