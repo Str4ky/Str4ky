@@ -28,7 +28,7 @@
   
 <img src="https://treebit.ru/wp-content/uploads/2020/04/Clickteam-Fusion-2.5.png" width=32px>
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width=32px>
+<img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" width=32px>
   
 <img src="https://grafikart.fr/uploads/icons/css.svg" width=32px>
   
