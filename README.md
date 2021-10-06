@@ -24,7 +24,7 @@
   
 <img src="Logos\Windows.png" width=32px>
   &nbsp;
-<img src="Logos\PaintDotNet.png" width=32px>
+<img src="Logos\Paint.Net.png" width=32px>
   &nbsp;
 <img src="Logos\VisualStudio.png" width=32px>
   &nbsp;
