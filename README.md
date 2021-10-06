@@ -49,6 +49,10 @@
 <img src="Logos\Csharp.png" width=32px>
   &nbsp;
 <img src="Logos\Python.png" width=32px>
+  &nbsp;
+<img src="Logos\Bash.png" width=32px>
+  &nbsp;
+<img src="Logos\MySQL.png" width=32px>
   
 </div>
 
