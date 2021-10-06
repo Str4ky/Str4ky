@@ -44,8 +44,6 @@
   
 <h3>Les langages ou je débute</h3>
   
-<img src="Ressources\Laravel.png" width=32px>
-  &nbsp;
 <img src="Ressources\Csharp.png" width=32px>
   &nbsp;
 <img src="Ressources\Python.png" width=32px>
@@ -53,6 +51,9 @@
 <img src="Ressources\Bash.png" width=32px>
   &nbsp;
 <img src="Ressources\MySQL.png" width=42px>
+  
+<h3>Les frameworks que j'utilise</h3>
+<img src="Ressources\Laravel.png" width=32px>
   
 </div>
 
