@@ -30,7 +30,7 @@
   
 <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png" width=32px>
   
-<img src="https://grafikart.fr/uploads/icons/css.svg" width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width=32px>
   
 <h3>Je débute</h3>
   
