@@ -20,7 +20,7 @@
 
 <div>
   
-  <h3><u>Je suis confirmé</u> :</h3>
+  <h3><u>Je suis confirmé</u></h3>
   
 <img src="https://static.wikia.nocookie.net/wnr/images/f/fd/Windows_10X_logo_.png/revision/latest/scale-to-width-down/185?cb=20210514203759" width=32px>
   &nbsp;
