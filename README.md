@@ -24,36 +24,36 @@
   
 <a href="https://www.microsoft.com/fr-fr/windows"><img src="Ressources\Windows.png" alt="Windows" title="Windows" width=32px></a>
   &nbsp;
-<a href="https://www.getpaint.net" <img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px></a>
+<a href="https://www.getpaint.net"><img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px></a>
   &nbsp;
-<a href="https://visualstudio.microsoft.com/fr" <img src="Ressources\VisualStudio.png" alt="Visual Studio" title="Visual Studio" width=32px></a>
+<a href="https://visualstudio.microsoft.com/fr"><img src="Ressources\VisualStudio.png" alt="Visual Studio" title="Visual Studio" width=32px></a>
   &nbsp;
-<a href="https://code.visualstudio.com" <img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px></a>
+<a href="https://code.visualstudio.com"><img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px></a>
   &nbsp;
-<a href="https://www.clickteam.com/clickteam-fusion-2-5" <img src="Ressources\Clickteam.png" alt="Clickteam Fusion" title="Clickteam Fusion" width=32px></a>
+<a href="https://www.clickteam.com/clickteam-fusion-2-5"><img src="Ressources\Clickteam.png" alt="Clickteam Fusion" title="Clickteam Fusion" width=32px></a>
   &nbsp;
-<a href="https://dbotmaker.io" <img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
+<a href="https://dbotmaker.io"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
   
 <h3>Les frameworks que j'utilise</h3>
-<a href="https://laravel.com" <img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
+<a href="https://laravel.com"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
   
 <h3>Les langages où je suis confirmé</h3>
   
-<a href="https://html.spec.whatwg.org" <img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
+<a href="https://html.spec.whatwg.org"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
  &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" <img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
  &nbsp;
-<a href="https://www.php.net" <img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
+<a href="https://www.php.net"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
   
 <h3>Les langages où je débute</h3>
   
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp" <img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
   &nbsp;
-<a href="https://www.python.org" <img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
+<a href="https://www.python.org"><img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
   &nbsp;
-<a href="https://www.gnu.org/software/bash" <img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
+<a href="https://www.gnu.org/software/bash"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
   &nbsp;
-<img href="https://www.mysql.com/fr" src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
+<a href="https://www.mysql.com/fr"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
   
 </div>
 
