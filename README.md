@@ -22,7 +22,7 @@
 
 <h3>Les outils que j'utilise</h3>
   
-<img src="Ressources\Windows.png" href="https://www.google.fr" alt="Windows" title="Windows" width=32px>
+<img src="Ressources\Windows.png" alt="Windows" title="Windows" width=32px>
   &nbsp;
 <img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px>
   &nbsp;
