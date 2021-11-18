@@ -42,8 +42,10 @@
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
  &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
- &nbsp;
-<a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
+ 
+<h3>Les langages où je suis intermédiaire</h3>  
+  
+  <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
   
 <h3>Les langages où je débute</h3>
   
