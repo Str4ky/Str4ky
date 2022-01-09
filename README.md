@@ -22,7 +22,7 @@
 
 <h3>Les outils que j'utilise</h3>
   
-<a href="https://www.microsoft.com/fr-fr/windows" target="_blank"><img src="Ressources\Windows.png" alt="Windows" title="Windows" width=32px></a>
+<a href="https://www.microsoft.com/fr-fr/windows" target="_blank"><img src="Ressources\Windows11.png" alt="Windows" title="Windows" width=32px></a>
   &nbsp;
 <a href="https://www.getpaint.net" target="_blank"><img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px></a>
   &nbsp;
