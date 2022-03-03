@@ -35,6 +35,7 @@
 <a href="https://dbotmaker.io" target="_blank"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
   
 <h3>Les frameworks que j'utilise</h3>
+  <h6>Où je débute</h6>
 <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
   
 <h3>Les langages que j'utilise</h3>
@@ -49,7 +50,9 @@
   <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
   
 <h6>Où je débute</h6>
-  
+ 
+<a href="https://www.javascript.com" target="_blank"><img src="Ressources\JS.png" alt="JS" title="JS" width=32px></a>
+  &nbsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
   &nbsp;
 <a href="https://www.python.org" target="_blank"><img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
