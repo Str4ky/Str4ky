@@ -38,7 +38,7 @@
 <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
   
 <h3>Les langages que j'utilise</h3>
-<h5>Où je suis confirmé</h5>
+<h6>Où je suis confirmé</h6>
   
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
  &nbsp;
