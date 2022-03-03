@@ -44,11 +44,11 @@
  &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
  
-<h3>Les langages où je suis intermédiaire</h3>  
+<h6>Où je suis intermédiaire</h6>  
   
   <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
   
-<h3>Les langages où je débute</h3>
+<h6>Où je débute</h6>
   
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
   &nbsp;
