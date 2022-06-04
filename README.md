@@ -7,7 +7,7 @@
 </h3>
 </div>
 
-<h2> À propos de moi <img src="Ressources\Graphic.gif">
+<h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
 
 ➭ 💼 Étudiant en BTS SIO 2ème année, <a href="http://tim-req.ml" target="_blank">pour plus d'infos</a>
