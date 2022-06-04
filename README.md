@@ -1,4 +1,4 @@
-<h1 style="vertical-align: top;"> ![](Ressources\Pixel.gif =64x64) Salut, moi c'est Tim <img src = "Ressources\Hand.gif" width = 50px> </h1>
+<h1 style="vertical-align: top;"> <img src="Ressources\Pixel.gif" width="64px"> Salut, moi c'est Tim <img src = "Ressources\Hand.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
