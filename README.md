@@ -1,4 +1,4 @@
-<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif" width="64px"> Salut, moi c'est Tim <img src = "Ressources\Hand.gif" width = 50px> </h1>
+<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"> </h1>
 <p align='center'>
 
 </p>
@@ -7,7 +7,7 @@
 </h3>
 </div>
 
-<h2> À propos de moi <img src="Ressources\Line.gif" width="30px">
+<h2> À propos de moi <img src="Ressources\Graphic.gif">
 </h2>
 
 ➭ 💼 Étudiant en BTS SIO 2ème année, <a href="http://tim-req.ml" target="_blank">pour plus d'infos</a>
@@ -16,7 +16,7 @@
 
 ➭ 🤖 Développeur de bot Discord, <a href="http://strakybot.tk" target="_blank">pour plus d'infos</a> 
 
-<h2> Mes compétences <img src = "Ressources\Code.gif" width = 32px> </h2>
+<h2> Mes compétences <img src = "Ressources\Dev.gif"> </h2>
 
 <div>
 
@@ -63,7 +63,7 @@
   
 </div>
 
-<h2> Mes statistiques Github <img src='Ressources\Github.gif' width='32px'> </h2>
+<h2> Mes statistiques Github <img src='Ressources\Github_logo.gif'> </h2>
 
 <a href="https://github.com/Str4ky/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Str4ky&count_private=true&show_icons=true&theme=tokyonight" />
