@@ -10,11 +10,11 @@
 <h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
 
-➭ 💼 Étudiant en BTS SIO 2ème année, <a href="http://tim-req.ml" target="_blank">pour plus d'infos</a>
+➭ 💼 Étudiant en BTS SIO 2ème année, <a href="http://tim-req.tk" target="_blank">pour plus d'infos</a>
 
-➭ 🎮 Développeur de jeux indépendants, <a href="http://strakygames.tk" target="_blank">pour plus d'infos</a>
+➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.tk" target="_blank">pour plus d'infos</a>
 
-➭ 🤖 Développeur de bot Discord, <a href="http://strakybot.tk" target="_blank">pour plus d'infos</a> 
+➭ 🤖 Développeur de bot Discord, <a href="http://bot.straky.tk" target="_blank">pour plus d'infos</a> 
 
 <h2> Mes compétences <img src = "Ressources\Dev.gif"> </h2>
 
