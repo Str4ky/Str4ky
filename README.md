@@ -1,4 +1,4 @@
-<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"> <img src="Ressources\en3.png"> version</h1>
+<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"></h1> <img src="Ressources\en3.png"> version
 <p align='center'>
 
 </p>
