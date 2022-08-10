@@ -38,7 +38,7 @@
   <h6>Where I'm a begginer</h6>
 <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
   
-<h3>Les langages que j'utilise</h3>
+<h3>Languages I use</h3>
 <h6>Where I'm a semi-pro</h6>
   
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
@@ -63,7 +63,7 @@
   
 </div>
 
-<h2> My Github stats <img src='Ressources\Github_logo.gif'> </h2>
+<h2>My Github stats <img src='Ressources\Github_logo.gif'> </h2>
 
 <a href="https://github.com/Str4ky/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Str4ky&count_private=true&show_icons=true&theme=tokyonight" />
