@@ -1,4 +1,4 @@
-<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"> </h1>
+<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"> also available in english</h1>
 <p align='center'>
 
 </p>
@@ -6,7 +6,7 @@
 <div size='20px'> Je suis développeur informatique indépendant
 </h3>
 </div>
-also available in english
+
 <h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
 
