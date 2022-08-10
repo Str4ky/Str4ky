@@ -6,7 +6,7 @@
 <div size='20px'> Je suis développeur informatique indépendant
 </h3>
 </div>
-
+also available in english
 <h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
 
