@@ -10,7 +10,7 @@
 <h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
 
-➭ 💼 Étudiant en BTS SIO 2ème année, <a href="http://tim-req.tk" target="_blank">pour plus d'infos</a>
+➭ 💼 Étudiant en alternance, <a href="http://tim-req.tk" target="_blank">pour plus d'infos</a>
 
 ➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.tk" target="_blank">pour plus d'infos</a>
 
