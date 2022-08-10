@@ -3,7 +3,7 @@
 
 </p>
 <h3>
-<div size='20px'> I'm a indie developer
+<div size='20px'> I'm an indie developer
 </h3>
 </div>
   
