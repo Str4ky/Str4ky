@@ -35,21 +35,21 @@
 <a href="https://dbotmaker.io" target="_blank"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
   
 <h3>Frameworks I use</h3>
-  <h6>Where I'm a begginer</h6>
+  <h6>I'm a begginer at</h6>
 <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
   
 <h3>Languages I use</h3>
-<h6>Where I'm a semi-pro</h6>
+<h6>I'm a semi-pro at</h6>
   
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
  &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
  
-<h6>Where I'm a go-between</h6>  
+<h6>I'm a go-between at</h6>  
   
   <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
   
-<h6>Where I'm a begginer</h6>
+<h6>I'm a begginer at</h6>
  
 <a href="https://www.javascript.com" target="_blank"><img src="Ressources\JS.png" alt="JS" title="JS" width=32px></a>
   &nbsp;
