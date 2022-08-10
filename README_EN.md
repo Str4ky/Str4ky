@@ -12,7 +12,7 @@
 
 ➭ 💼 Part time student/worker, <a href="http://tim-req.tk" target="_blank">for more infos</a>
 
-➭ 🎮 Indie game developer, <a href="http://games.straky.tk/en" target="_blank">for more infos</a>
+➭ 🎮 Indie games developer, <a href="http://games.straky.tk/en" target="_blank">for more infos</a>
 
 ➭ 🤖 Discord bot developer, <a href="http://bot.straky.tk" target="_blank">for more infos</a> 
 
