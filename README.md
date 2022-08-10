@@ -1,10 +1,11 @@
-<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif">     <img src="Ressources\en3.png"> version</h1>
+<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"></h1>
 <p align='center'>
 
 </p>
 <h3>
 <div size='20px'> Je suis développeur informatique indépendant
 </h3>
+<img src="Ressources\en3.png"> version
 </div>
 
 <h2> À propos de moi <img src="Ressources\Bars.gif">
