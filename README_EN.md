@@ -10,7 +10,7 @@
 <h2> About me <img src="Ressources\Bars.gif">
 </h2>
 
-➭ 💼 Alternation student, <a href="http://tim-req.tk" target="_blank">for more infos</a>
+➭ 💼 Part time student/worker, <a href="http://tim-req.tk" target="_blank">for more infos</a>
 
 ➭ 🎮 Indie game developer, <a href="http://games.straky.tk/en" target="_blank">for more infos</a>
 
