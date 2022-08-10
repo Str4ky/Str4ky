@@ -63,7 +63,7 @@
   
 </div>
 
-<h2> Mes statistiques Github <img src='Ressources\Github_logo.gif'> </h2>
+<h2>Mes statistiques Github <img src='Ressources\Github_logo.gif'> </h2>
 
 <a href="https://github.com/Str4ky/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Str4ky&count_private=true&show_icons=true&theme=tokyonight" />
