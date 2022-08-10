@@ -25,11 +25,11 @@
 
 <h3>Les outils que j'utilise</h3>
   
-<a href="https://www.microsoft.com/fr-fr/windows" target="_blank"><img src="Ressources\Windows11.png" alt="Windows" title="Windows" width=32px></a>
+<a href="https://www.microsoft.com/windows" target="_blank"><img src="Ressources\Windows11.png" alt="Windows" title="Windows" width=32px></a>
   &nbsp;
 <a href="https://www.getpaint.net" target="_blank"><img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px></a>
   &nbsp;
-<a href="https://visualstudio.microsoft.com/fr" target="_blank"><img src="Ressources\VisualStudio2022.png" alt="Visual Studio" title="Visual Studio" width=32px></a>
+<a href="https://visualstudio.microsoft.com" target="_blank"><img src="Ressources\VisualStudio2022.png" alt="Visual Studio" title="Visual Studio" width=32px></a>
   &nbsp;
 <a href="https://code.visualstudio.com" target="_blank"><img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px></a>
   &nbsp;
