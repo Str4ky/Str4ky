@@ -1,26 +1,26 @@
-<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Salut, moi c'est Tim <img src = "Ressources\Hello.gif"> <a href="README_EN.md">(<img src="Ressources\en_flag.png"> version)</a></h1>
+<h1 style="vertical-align: top;"> <img src="Ressources\Straky.gif"> Hi, i'm Tim <img src = "Ressources\Hello.gif"> <a href="README.md">(Version <img src="Ressources\fr_flag.png">)</a></h1>
 <p align='center'>
 
 </p>
 <h3>
-<div size='20px'> Je suis développeur informatique indépendant
+<div size='20px'> I'm a indie developer
 </h3>
 </div>
   
-<h2> À propos de moi <img src="Ressources\Bars.gif">
+<h2> About me <img src="Ressources\Bars.gif">
 </h2>
 
-➭ 💼 Étudiant en alternance, <a href="http://tim-req.tk" target="_blank">pour plus d'infos</a>
+➭ 💼 Alternation student, <a href="http://tim-req.tk" target="_blank">for more infos</a>
 
-➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.tk" target="_blank">pour plus d'infos</a>
+➭ 🎮 Indie game developer, <a href="http://games.straky.tk/en" target="_blank">for more infos</a>
 
-➭ 🤖 Développeur de bot Discord, <a href="http://bot.straky.tk" target="_blank">pour plus d'infos</a> 
+➭ 🤖 Discord bot developer, <a href="http://bot.straky.tk" target="_blank">for more infos</a> 
 
-<h2> Mes compétences <img src = "Ressources\Dev.gif"> </h2>
+<h2> My skills <img src = "Ressources\Dev.gif"> </h2>
 
 <div>
 
-<h3>Les outils que j'utilise</h3>
+<h3>Tools I use</h3>
   
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="Ressources\Windows11.png" alt="Windows" title="Windows" width=32px></a>
   &nbsp;
@@ -34,22 +34,22 @@
   &nbsp;
 <a href="https://dbotmaker.io" target="_blank"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
   
-<h3>Les frameworks que j'utilise</h3>
-  <h6>Où je débute</h6>
+<h3>Frameworks I use</h3>
+  <h6>Where I'm a begginer</h6>
 <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
   
 <h3>Les langages que j'utilise</h3>
-<h6>Où je suis confirmé</h6>
+<h6>Where I'm a semi-pro</h6>
   
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
  &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
  
-<h6>Où je suis intermédiaire</h6>  
+<h6>Where I'm a go-between</h6>  
   
   <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
   
-<h6>Où je débute</h6>
+<h6>Where I'm a begginer</h6>
  
 <a href="https://www.javascript.com" target="_blank"><img src="Ressources\JS.png" alt="JS" title="JS" width=32px></a>
   &nbsp;
@@ -63,7 +63,7 @@
   
 </div>
 
-<h2> Mes statistiques Github <img src='Ressources\Github_logo.gif'> </h2>
+<h2> My Github stats <img src='Ressources\Github_logo.gif'> </h2>
 
 <a href="https://github.com/Str4ky/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Str4ky&count_private=true&show_icons=true&theme=tokyonight" />
