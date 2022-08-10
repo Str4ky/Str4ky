@@ -5,8 +5,8 @@
 <h3>
 <div size='20px'> Je suis développeur informatique indépendant
 </h3>
-<img src="Ressources\en3.png"> version
 </div>
+<img src="Ressources\en3.png"> version
 
 <h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
