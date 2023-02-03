@@ -60,7 +60,9 @@
 <a href="https://www.gnu.org/software/bash" target="_blank"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
   &nbsp;
 <a href="https://www.mysql.com/fr" target="_blank"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
-  
+   &nbsp;
+<a href="https://www.java.com/fr" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
+
 </div>
 
 <h2>Mes statistiques Github <img src='Ressources\Github_logo.gif'> </h2>
