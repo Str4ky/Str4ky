@@ -53,7 +53,7 @@
  
 <a href="https://www.javascript.com" target="_blank"><img src="Ressources\JS.png" alt="JS" title="JS" width=32px></a>
   &nbsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
+<a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
   &nbsp;
 <a href="https://www.python.org" target="_blank"><img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
   &nbsp;
