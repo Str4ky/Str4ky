@@ -51,6 +51,8 @@
   
 <h6>I'm a begginer at</h6>
  
+<a href="https://www.java.com/fr" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
+  &nbsp;
 <a href="https://www.javascript.com" target="_blank"><img src="Ressources\JS.png" alt="JS" title="JS" width=32px></a>
   &nbsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
@@ -60,8 +62,6 @@
 <a href="https://www.gnu.org/software/bash" target="_blank"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
   &nbsp;
 <a href="https://www.mysql.com" target="_blank"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
-  &nbsp;
-<a href="https://www.java.com" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
   
 </div>
 
