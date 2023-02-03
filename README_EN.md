@@ -59,7 +59,9 @@
   &nbsp;
 <a href="https://www.gnu.org/software/bash" target="_blank"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
   &nbsp;
-<a href="https://www.mysql.com/fr" target="_blank"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
+<a href="https://www.mysql.com" target="_blank"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
+  &nbsp;
+<a href="https://www.java.com" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
   
 </div>
 
