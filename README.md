@@ -12,9 +12,9 @@
 
 ➭ 💼 Étudiant en alternance, <a href="http://tim-req.tk" target="_blank">pour plus d'infos</a>
 
-➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.tk" target="_blank">pour plus d'infos</a>
+➭ 💻 Projets personnels, <a href="http://straky.tk" target="_blank">pour plus d'infos</a>
 
-➭ 🤖 Développeur de bot Discord, <a href="http://bot.straky.tk" target="_blank">pour plus d'infos</a> 
+➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.tk" target="_blank">pour plus d'infos</a>
 
 <h2> Mes compétences <img src = "Ressources\Dev.gif"> </h2>
 
