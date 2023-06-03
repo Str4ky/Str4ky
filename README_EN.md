@@ -14,7 +14,7 @@
 
 ➭ 🎮 Indie games developer, <a href="http://games.straky.tk/en" target="_blank">for more infos</a>
 
-➭ 💻 My personnal projects, <a href="http://straky.tk" target="_blank">pour plus d'infos</a>
+➭ 💻 My personnal projects, <a href="http://straky.tk" target="_blank">for more infos</a>
 
 <h2> My skills <img src = "Ressources\Dev.gif"> </h2>
 
