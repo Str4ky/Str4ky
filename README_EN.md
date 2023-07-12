@@ -12,9 +12,9 @@
 
 ➭ 💼 Part time student/worker, <a href="http://timreq.fr" target="_blank">for more infos</a>
 
-➭ 🎮 Indie games developer, <a href="http://games.straky.tk/en" target="_blank">for more infos</a>
+➭ 🎮 Indie games developer, <a href="http://games.straky.fr/en" target="_blank">for more infos</a>
 
-➭ 💻 My personnal projects, <a href="http://straky.tk" target="_blank">for more infos</a>
+➭ 💻 My personnal projects, <a href="http://straky.fr" target="_blank">for more infos</a>
 
 <h2> My skills <img src = "Ressources\Dev.gif"> </h2>
 
