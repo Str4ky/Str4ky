@@ -22,30 +22,31 @@
 
 <h3>Les outils que j'utilise</h3>
   
-<a href="https://www.microsoft.com/windows" target="_blank"><img src="Ressources\Windows11.png" alt="Windows" title="Windows" width=32px></a>
-  &nbsp;
-<a href="https://www.getpaint.net" target="_blank"><img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px></a>
-  &nbsp;
-<a href="https://visualstudio.microsoft.com" target="_blank"><img src="Ressources\VisualStudio2022.png" alt="Visual Studio" title="Visual Studio" width=32px></a>
-  &nbsp;
-<a href="https://code.visualstudio.com" target="_blank"><img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px></a>
-  &nbsp;
-<a href="https://www.clickteam.com/clickteam-fusion-2-5" target="_blank"><img src="Ressources\Clickteam.png" alt="Clickteam Fusion" title="Clickteam Fusion" width=32px></a>
-  &nbsp;
-<a href="https://dbotmaker.io" target="_blank"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="Ressources\Windows11.png" alt="Windows" title="Windows" width=32px></a>
+    &nbsp;
+  <a href="https://www.getpaint.net" target="_blank"><img src="Ressources\Paint.Net.png" alt="Paint.NET" title="Paint.NET" width=32px></a>
+    &nbsp;
+  <a href="https://visualstudio.microsoft.com" target="_blank"><img src="Ressources\VisualStudio2022.png" alt="Visual Studio" title="Visual Studio" width=32px></a>
+    &nbsp;
+  <a href="https://code.visualstudio.com" target="_blank"><img src="Ressources\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px></a>
+    &nbsp;
+  <a href="https://www.clickteam.com/clickteam-fusion-2-5" target="_blank"><img src="Ressources\Clickteam.png" alt="Clickteam Fusion" title="Clickteam Fusion" width=32px></a>
+    &nbsp;
+  <a href="https://dbotmaker.io" target="_blank"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
   
 <h3>Les frameworks que j'utilise</h3>
-  <h6>Où je débute</h6>
-<a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
-  &nbsp;
-<a href="https://tailwindcss.com" target="_blank"><img src="Ressources\Tailwind.png" alt="Tailwind" title="Tailwind" width=32px></a>
+<h6>Où je débute</h6>
+
+  <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
+    &nbsp;
+  <a href="https://tailwindcss.com" target="_blank"><img src="Ressources\Tailwind.png" alt="Tailwind" title="Tailwind" width=32px></a>
   
 <h3>Les langages que j'utilise</h3>
 <h6>Où je suis confirmé</h6>
   
-<a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
- &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
+  <a href="https://html.spec.whatwg.org" target="_blank"><img src="Ressources\HTML.png" alt="HTML" title="HTML" width=32px></a>
+   &nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Ressources\CSS.png" alt="CSS" title="CSS" width=32px></a>
  
 <h6>Où je suis intermédiaire</h6>  
   
@@ -57,13 +58,13 @@
   
 <h6>Où je débute</h6>
  
-<a href="https://www.java.com/fr" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
-  &nbsp;
-<a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
-  &nbsp;
-<a href="https://www.gnu.org/software/bash" target="_blank"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
-  &nbsp;
-<a href="https://www.mysql.com/fr" target="_blank"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
+  <a href="https://www.java.com/fr" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
+    &nbsp;
+  <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
+    &nbsp;
+  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
+    &nbsp;
+  <a href="https://www.mysql.com/fr" target="_blank"><img src="Ressources\MySQL.png" alt="SQL" title="SQL" width=42px></a>
 
 </div>
 
