@@ -53,7 +53,7 @@
  
 <a href="https://www.java.com/fr" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
   &nbsp;
-<a href="https://www.javascript.com" target="_blank"><img src="Ressources\JS.png" alt="JS" title="JS" width=32px></a>
+<a href="https://www.javascript.com" target="_blank"><img src="Ressources\Javascript.png" alt="JS" title="JS" width=32px></a>
   &nbsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
   &nbsp;
