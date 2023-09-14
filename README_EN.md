@@ -49,7 +49,7 @@
   
   <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
     &nbsp;
-  <a href="https://www.javascript.com" target="_blank"><img src="Ressources\Javascript.png" alt="JS" title="JS" width=32px></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="Ressources\JavaScript.png" alt="JvaScript" title="JavaScript" width=32px></a>
     &nbsp;
   <a href="https://www.python.org" target="_blank"><img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
   
