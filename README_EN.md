@@ -48,16 +48,16 @@
 <h6>I'm a go-between at</h6>  
   
   <a href="https://www.php.net" target="_blank"><img src="Ressources\PHP.png" alt="PHP" title="PHP" width=38px></a>
+    &nbsp;
+  <a href="https://www.javascript.com" target="_blank"><img src="Ressources\Javascript.png" alt="JS" title="JS" width=32px></a>
+    &nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
   
 <h6>I'm a begginer at</h6>
  
 <a href="https://www.java.com/fr" target="_blank"><img src="Ressources\Java.png" alt="Java" title="Java" width=42px></a>
   &nbsp;
-<a href="https://www.javascript.com" target="_blank"><img src="Ressources\Javascript.png" alt="JS" title="JS" width=32px></a>
-  &nbsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="Ressources\Csharp.png" alt="C#" title="C#" width=32px></a>
-  &nbsp;
-<a href="https://www.python.org" target="_blank"><img src="Ressources\Python.png" alt="Python" title="Python" width=32px></a>
   &nbsp;
 <a href="https://www.gnu.org/software/bash" target="_blank"><img src="Ressources\Bash.png" alt="Bash" title="Bash" width=32px></a>
   &nbsp;
