@@ -34,12 +34,14 @@
     &nbsp;
   <a href="https://dbotmaker.io" target="_blank"><img src="Ressources\DiscordBotMaker.png" alt="Discord Bot Maker" title="Discord Bot Maker" width=32px></a>
   
-<h3>Frameworks I use</h3>
+<h3>Frameworks/Librairies I use</h3>
 <h6>I'm a begginer at</h6>
 
   <a href="https://laravel.com" target="_blank"><img src="Ressources\Laravel.png" alt="Laravel" title="Laravel" width=32px></a>
     &nbsp;
   <a href="https://tailwindcss.com" target="_blank"><img src="Ressources\Tailwind.png" alt="Tailwind" title="Tailwind" width=32px></a>
+    &nbsp;
+  <a href="https://react.dev" target="_blank"><img src="Ressources\React.png" alt="React" title="React" width=32px></a>
   
 <h3>Languages I use</h3>
 <h6>I'm a semi-pro at</h6>
