@@ -41,7 +41,7 @@
     &nbsp;
   <a href="https://tailwindcss.com" target="_blank"><img src="Ressources\Tailwind.png" alt="Tailwind" title="Tailwind" width=32px></a>
     &nbsp;
-  <a href="https://react.dev" target="_blank"><img src="Ressources\React.png" alt="React" title="React" width=32px></a>
+  <a href="https://fr.react.dev" target="_blank"><img src="Ressources\React.png" alt="React" title="React" width=32px></a>
   
 <h3>Les langages que j'utilise</h3>
 <h6>Où je suis confirmé</h6>
