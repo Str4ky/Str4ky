@@ -10,7 +10,7 @@
 <h2> À propos de moi <img src="Ressources\Bars.gif">
 </h2>
 
-➭ 💼 Développeur Front-End chez nod.i, <a href="http://timreq.fr" target="_blank">pour plus d'infos</a>
+➭ 💼 Développeur Front-End à la recherche d'un taf svp aled, <a href="http://timreq.fr" target="_blank">pour plus d'infos</a>
 
 ➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.fr" target="_blank">pour plus d'infos</a>
 
