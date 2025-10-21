@@ -10,7 +10,7 @@
 <h2> About me <img src="Ressources\Bars.gif">
 </h2>
 
-➭ 💼 Front-End developer looking for job pls help me, <a href="http://timreq.fr" target="_blank">for more infos</a>
+➭ 💼 Front-End developer, <a href="http://timreq.fr" target="_blank">for more infos</a>
 
 ➭ 🎮 Indie games developer, <a href="http://games.straky.fr/en" target="_blank">for more infos</a>
 
